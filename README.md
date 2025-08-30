@@ -37,7 +37,12 @@ cd [repo-folder]
 [commands here]
 
 # Run the project
-[commands here]
+
+npx create-react-app performance-tracker-frontend
+cd performance-tracker-frontend
+npm start
+
+Used to launch the react webapp
 ```
 
 
