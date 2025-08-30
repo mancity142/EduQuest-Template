@@ -2,8 +2,8 @@
 
 ## 🏷️ Team Information
 
-* **Team Name:** \[Your Team Name]
-* **Team Members:** \[List all members with Discord usernames]
+* **Team Name:** DEVEMPHASIS
+* **Team Members:** \
 * **Membership IDs:** \[Copy from BuilderClan Discord `/profile`]
 
 ## 🎮 Project Overview
