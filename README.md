@@ -43,6 +43,10 @@ cd performance-tracker-frontend
 npm start
 
 Used to launch the react webapp
+
+
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+Used to The JWT_SECRET is a secret key string used to sign and verify JSON Web Tokens (JWTs) securely. It should be a strong, random, and private string known only to your backend server.
 ```
 
 
