@@ -4,7 +4,7 @@
 
 * **Team Name:** \[Your Team Name]
 * **Team Members:** \[List all members with Discord usernames]
-* **Team ID / Membership IDs:** \[Copy from BuilderClan Discord `/profile`]
+* **Membership IDs:** \[Copy from BuilderClan Discord `/profile`]
 
 ## 🎮 Project Overview
 
